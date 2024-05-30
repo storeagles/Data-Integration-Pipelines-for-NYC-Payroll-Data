@@ -1,0 +1,9 @@
+{
+	"name": "udacitymakca3",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "56c98dd3-4751-4874-ab38-87024d326034",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
